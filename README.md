@@ -6,7 +6,7 @@ FL Studio's "elastique 3 mono" time-stretch and pitch algorithm, rebuilt from th
 
 ## Use
 
-1. Open `e3mono.html` in a browser.
+1. Open `index.html` in a browser.
 2. Drop a sample on it.
 3. Draw the pitch line, then press Space to listen.
 4. Click Download to save the result as a WAV.
